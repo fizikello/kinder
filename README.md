@@ -18,3 +18,5 @@ Feedback
 We're always looking for ways to improve the Kinder App. If you have any feedback or suggestions, please don't hesitate to contact us at arek90urban@gmail.com.
 
 Thank you for using our app, and we hope it helps you choose the perfect name for your little one!
+
+images come from flaticon.com
