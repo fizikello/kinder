@@ -4,6 +4,7 @@ import pandas as pd
 
 from Names import Names
 from tkinter import filedialog
+# checked on python 3.12
 
 THEME_COLOR = "#E8E8E4"
 DARK_GREY = "#a0a0a0"
